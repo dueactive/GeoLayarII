@@ -1,0 +1,57 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 40.4625441,
+          "lon": -3.6911976
+        }
+      },
+      "id": 1,
+      "text": {
+        "title": "This is a basic POI Castellana 202"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 40.4624176,
+          "lon": -3.6901193
+        }
+      },
+      "icon": {
+        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+      },
+      "id": 2,
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3",
+        "title": "This is a basic POICastella 200"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html",
+          "label": "Visit our hotspots documentation!",
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 40.4628281,
+          "lon": -3.6890112
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "This is a basic POI Castellana ??"
+      }
+    }
+  ],
+  "layer": "demogeo2h0x",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
+}
